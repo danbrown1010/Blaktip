@@ -27,12 +27,17 @@ Blaktip is built using the following AWS services:
 ## Application Architecture
 ### Front End
 #### Web
-
 #### iOS
-
 #### Android
-
 ### Back End API
 #### Admin APIs
 #### Device APIs
 #### Client APIs
+## Data Architecture
+### Information Flows
+### Analytics
+## Security Architecture
+### Authentication & Authorization
+### Network Security
+### Device Authentication and Hardening
+
