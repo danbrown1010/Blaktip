@@ -1,21 +1,6 @@
-s Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-
- think you should use an
-`<addr>` element here instead.
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-
-# Blaktip
+# **Blaktip**
 ## Monitor, manage, and instrument marine livestock environments...
-Blaktip is a modern serverless application used to monitor, manage instrument marine livestock environments. The app showcases serverless services using the AWS platform. 
+**Blaktip** is a modern serverless application used to monitor, manage instrument marine livestock environments. The app showcases serverless services using the AWS platform. 
 
 The mobile front-end is built using the [Expo](https://expo.io/) framework and client libraries to call AWS services and mobile backend APIs. The backend APIs themselves are powered by AWS services. The backend APIs are built using a serverless architecture, which makes it easy to deploy updates, and it also means that there are no servers to operationally manage.
 
@@ -61,8 +46,11 @@ The mobile front-end is built using the [Expo](https://expo.io/) framework and c
 ## Data Architecture
 ### Information Flows
 ### Analytics
+### Data Structures
+### Data Model(s)
 ## Security Architecture
 ### Authentication & Authorization
+### Data Protection
 ### Network Security
 ### Device Authentication and Hardening
 
