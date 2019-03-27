@@ -42,5 +42,4 @@ Blaktip is built using the following AWS services:
 ### Network Security
 ### Device Authentication and Hardening
 
-# DISCLAIMER: IT IS NOT YET COMPLETE! IF YOU BORROW OR STEAL CODE FROM THIS PROJECT YOU DO SO AT YOUR OWN RISK!
 
