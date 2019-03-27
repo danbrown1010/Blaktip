@@ -1,11 +1,11 @@
 # Blaktip
-## Future repo of Blaktip codebase
 A serverless application used to monitor and manage marine livestock and enironmental instrumentation. The app showcases serverless authentication and authorization using the AWS platform.
 
 The mobile front-end is built using the Expo framework and client libraries to call AWS services and mobile backend APIs. The backend APIs themselves are powered by AWS services. The backend APIs are built using a serverless architecture, which makes it easy to deploy updates, and it also means that there are no servers to operationally manage.
 
 **Blaktip** is primarily developed and maintained by Dan Brown. The project code is released under the Apache 2.0 license. 
 
+## AWS Services Used
 Blaktip is built using the following AWS services:
 
 [AWS Cognito](https://aws.amazon.com/cognito/) - Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps. With Amazon Cognito, you also have the options to authenticate users through social identity providers such as Facebook, Twitter, or Amazon, with SAML identity solutions, or by using your own identity system. Furthermore, AWS Cognito supports User Groups that let to create collections of users to manage their permissions or to represent different types of users.
@@ -17,3 +17,5 @@ Blaktip is built using the following AWS services:
 [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. You can create an API that acts as a “front door” for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon Elastic Compute Cloud (Amazon EC2), code running on AWS Lambda, or any Web application. Amazon API Gateway handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.
 
 [AWS CloudFormation](https://aws.amazon.com/cloudformation/) - AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.
+
+## High Level Architecture 
