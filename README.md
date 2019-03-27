@@ -9,7 +9,7 @@ The mobile front-end is built using the [Expo](https://expo.io/) framework and c
 ### 1) Serverless Reference Architecture
 ### 2) AWS Concept Sandbox
 ### 3) Modern Software Deployment Sandbox
-### 3) Product Development
+### 4) Product Development
 
 ## AWS Services Used
 **Blaktip** is built using the following AWS services:
