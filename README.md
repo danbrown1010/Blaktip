@@ -18,4 +18,12 @@ Blaktip is built using the following AWS services:
 
 [AWS CloudFormation](https://aws.amazon.com/cloudformation/) - AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.
 
-## High Level Architecture 
+## High Level Architecture
+<PICTURE HERE>
+  
+## Front End
+### Web
+
+### iOS
+
+### Android
