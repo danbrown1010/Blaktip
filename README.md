@@ -36,13 +36,13 @@ The mobile front-end is built using the [Expo](https://expo.io/) framework and c
 ---PICTURE HERE--
 ## Application Architecture
 ### Front End
-#### Web
-#### iOS
-#### Android
+* #### Web
+* #### iOS
+* #### Android
 ### Back End API
-#### Admin APIs
-#### Device APIs
-#### Client APIs
+* #### Admin APIs
+* #### Device APIs
+* #### Client APIs
 ## Data Architecture
 ### Information Flows
 ### Analytics
