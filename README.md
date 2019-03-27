@@ -1,5 +1,6 @@
 # Blaktip
-A serverless application used to monitor and manage marine livestock and environmental instrumentation. The app showcases serverless authentication and authorization using the AWS platform.
+## Monitor, Manage, and Instrument Marine Livestock Environments
+Blaktip is a modern serverless application used to monitor, manage instrument marine livestock environments. The app showcases serverless services using the AWS platform. 
 
 The mobile front-end is built using the [Expo](https://expo.io/) framework and client libraries to call AWS services and mobile backend APIs. The backend APIs themselves are powered by AWS services. The backend APIs are built using a serverless architecture, which makes it easy to deploy updates, and it also means that there are no servers to operationally manage.
 
@@ -40,4 +41,6 @@ Blaktip is built using the following AWS services:
 ### Authentication & Authorization
 ### Network Security
 ### Device Authentication and Hardening
+
+# DISCLAIMER: IT IS NOT YET COMPLETE! IF YOU BORROW OR STEAL CODE FROM THIS PROJECT YOU DO SO AT YOUR OWN RISK!
 
