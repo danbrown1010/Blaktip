@@ -1,3 +1,18 @@
+s Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
+ think you should use an
+`<addr>` element here instead.
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
 # Blaktip
 ## Monitor, manage, and instrument marine livestock environments...
 Blaktip is a modern serverless application used to monitor, manage instrument marine livestock environments. The app showcases serverless services using the AWS platform. 
@@ -6,10 +21,14 @@ The mobile front-end is built using the [Expo](https://expo.io/) framework and c
 
 **Blaktip** is primarily developed and maintained by Dan Brown. The project code is released under the Apache 2.0 license. Dan also maintains a [Developer Guide](/DEVGUIDE.md) for those that would like to dive deeper. This project has several over-arching objectives:
 
-### 1) Serverless Reference Architecture
-### 2) AWS Concept Sandbox
-### 3) Modern Software Deployment Sandbox
-### 4) Product Development
+* ### Serverless Reference Architecture
+  Show off Serverless
+* ### AWS Concept Sandbox
+  Learn how to integrate and operate
+* ### Modern Software Deployment Sandbox
+  Learn how to deliver
+* ### Product Development
+  Build something I need
 
 ## AWS Services Used
 **Blaktip** is built using the following AWS services:
