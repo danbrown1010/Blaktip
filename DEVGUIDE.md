@@ -18,5 +18,9 @@
 ## APIs
 ### Blaktip
 Application API is here:
-https://api.blaktip.com
+#### Tanks
+https://api.blaktip.com/dev/Tanks
+
+#### Rooms
+
 ### Third Party
