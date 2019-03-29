@@ -12,10 +12,10 @@
 ### Production Environment
 #### Controls
 ## Packaging
-### Prerequisits
+### Prerequisites
 ## Containerization
 ## Deployment
 ## APIs
 ### Blaktip
+http://api.blacktip.com
 ### Third Party
-

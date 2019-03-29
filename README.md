@@ -4,7 +4,7 @@
 
 The mobile front-end is built using the [Expo](https://expo.io/) framework and client libraries to call AWS services and mobile backend APIs. The backend APIs themselves are powered by AWS services. The backend APIs are built using a serverless architecture, which makes it easy to deploy updates, and it also means that there are no servers to operationally manage.
 
-**Blaktip** is primarily developed and maintained by Danny Brown. The project code is released under the Apache 2.0 license. Dan also maintains a [Developer Guide](/DEVGUIDE.md) for those that would like to dive deeper. This project has several over-arching objectives:
+**Blaktip** is primarily developed and maintained by Dan Brown. The project code is released under the Apache 2.0 license. Dan also maintains a [Developer Guide](/DEVGUIDE.md) for those that would like to dive deeper. This project has several over-arching objectives:
 
 * ### Serverless Reference Architecture
   Show off Serverless
