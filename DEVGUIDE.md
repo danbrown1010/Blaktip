@@ -13,6 +13,10 @@
 #### Controls
 ## Packaging
 ### Prerequisites
+1) Install AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html
+
+2) Install
+`awscli --help`
 ## Containerization
 ## Deployment
 ## APIs
