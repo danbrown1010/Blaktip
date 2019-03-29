@@ -18,5 +18,5 @@
 ## APIs
 ### Blaktip
 Application API is here:
-https://api.blacktip.com
+https://api.blaktip.com
 ### Third Party
