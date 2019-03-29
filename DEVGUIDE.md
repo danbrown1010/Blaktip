@@ -17,5 +17,6 @@
 ## Deployment
 ## APIs
 ### Blaktip
-http://api.blacktip.com
+Application API is here:
+https://api.blacktip.com
 ### Third Party
